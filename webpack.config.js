@@ -9,7 +9,7 @@ module.exports =
 
   output:
   {
-    path: path.resolve(__dirname, 'docs'),
+    path: path.resolve(__dirname),
     filename: 'main.js'
   },
 
